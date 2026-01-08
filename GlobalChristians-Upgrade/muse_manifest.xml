@@ -1,0 +1,86 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.globalchristians.org/email" resolutions="1x" timestamp="1519253817651">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="301670605" ref="romans_9-16:jesus:starterkit:ebooks:walkspirit1:harvestime:walkspirit2:prayer:index:bible:john:walkspirit4:biblicaleq:walkspirit3:romans_1-8:the-spiritual-continuum"/>
+    <file name="romans_9-16.css" crc="4002414341" ref="romans_9-16"/>
+    <file name="jesus.css" crc="3800658246" ref="jesus"/>
+    <file name="starterkit.css" crc="4056462970" ref="starterkit"/>
+    <file name="ebooks.css" crc="390920832" ref="ebooks"/>
+    <file name="walkspirit1.css" crc="3771656594" ref="walkspirit1"/>
+    <file name="harvestime.css" crc="3951181187" ref="harvestime"/>
+    <file name="walkspirit2.css" crc="265769098" ref="walkspirit2"/>
+    <file name="prayer.css" crc="485926990" ref="prayer"/>
+    <file name="index.css" crc="4266542885" ref="index"/>
+    <file name="bible.css" crc="4263714813" ref="bible"/>
+    <file name="john.css" crc="180151044" ref="john"/>
+    <file name="walkspirit4.css" crc="166022716" ref="walkspirit4"/>
+    <file name="biblicaleq.css" crc="124320223" ref="biblicaleq"/>
+    <file name="walkspirit3.css" crc="268148702" ref="walkspirit3"/>
+    <file name="romans_1-8.css" crc="306797157" ref="romans_1-8"/>
+    <file name="the-spiritual-continuum.css" crc="4057622829" ref="the-spiritual-continuum"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:john:prayer:jesus:starterkit:harvestime:ebooks:bible:biblicaleq:romans_1-8:romans_9-16:walkspirit1:walkspirit2:walkspirit3:walkspirit4:the-spiritual-continuum"/>
+    <file name="museutils.js" crc="3803043152" ref="index:john:prayer:jesus:starterkit:harvestime:ebooks:bible:biblicaleq:romans_1-8:romans_9-16:walkspirit1:walkspirit2:walkspirit3:walkspirit4:the-spiritual-continuum"/>
+    <file name="whatinput.js" crc="86476730" ref="index:john:prayer:jesus:starterkit:harvestime:ebooks:bible:biblicaleq:romans_1-8:romans_9-16:walkspirit1:walkspirit2:walkspirit3:walkspirit4:the-spiritual-continuum"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:john:prayer:jesus:starterkit:harvestime:ebooks:bible:biblicaleq:romans_1-8:romans_9-16:walkspirit1:walkspirit2:walkspirit3:walkspirit4:the-spiritual-continuum"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:john:prayer:jesus:starterkit:harvestime:ebooks:bible:biblicaleq:romans_1-8:romans_9-16:walkspirit1:walkspirit2:walkspirit3:walkspirit4:the-spiritual-continuum"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:john:prayer:jesus:starterkit:harvestime:ebooks:bible:biblicaleq:romans_1-8:romans_9-16:walkspirit1:walkspirit2:walkspirit3:walkspirit4:the-spiritual-continuum"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:john:prayer:jesus:starterkit:harvestime:ebooks:bible:biblicaleq:romans_1-8:romans_9-16:walkspirit1:walkspirit2:walkspirit3:walkspirit4:the-spiritual-continuum"/>
+    <file name="require.js" crc="4157109226" ref="index:john:prayer:jesus:starterkit:harvestime:ebooks:bible:biblicaleq:romans_1-8:romans_9-16:walkspirit1:walkspirit2:walkspirit3:walkspirit4:the-spiritual-continuum"/>
+  </folder>
+  <folder name="images">
+    <file name="cybermissions_80px_logo.jpg" crc="4234670036" seo="true" ref="index:john:prayer:jesus:starterkit:harvestime:ebooks:bible:biblicaleq:romans_1-8:romans_9-16:walkspirit1:walkspirit2:walkspirit3:walkspirit4:the-spiritual-continuum">
+      <caption webpage="harvestime" alt=""/>
+      <caption webpage="biblicaleq" alt=""/>
+      <caption webpage="walkspirit2" alt=""/>
+      <caption webpage="the-spiritual-continuum" alt=""/>
+      <caption webpage="prayer" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="starterkit" alt=""/>
+      <caption webpage="romans_9-16" alt=""/>
+      <caption webpage="jesus" alt=""/>
+      <caption webpage="walkspirit1" alt=""/>
+      <caption webpage="john" alt=""/>
+      <caption webpage="walkspirit4" alt=""/>
+      <caption webpage="romans_1-8" alt=""/>
+      <caption webpage="walkspirit3" alt=""/>
+      <caption webpage="bible" alt=""/>
+      <caption webpage="ebooks" alt=""/>
+    </file>
+    <file name="adobestock_37662289_web.jpg" crc="483926104" seo="true" ref="index:john:prayer:jesus:starterkit:harvestime:ebooks:bible:biblicaleq:romans_1-8:romans_9-16:walkspirit1:walkspirit2:walkspirit3:walkspirit4:the-spiritual-continuum">
+      <caption webpage="harvestime" alt=""/>
+      <caption webpage="biblicaleq" alt=""/>
+      <caption webpage="walkspirit2" alt=""/>
+      <caption webpage="the-spiritual-continuum" alt=""/>
+      <caption webpage="prayer" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="starterkit" alt=""/>
+      <caption webpage="romans_9-16" alt=""/>
+      <caption webpage="jesus" alt=""/>
+      <caption webpage="walkspirit1" alt=""/>
+      <caption webpage="john" alt=""/>
+      <caption webpage="walkspirit4" alt=""/>
+      <caption webpage="romans_1-8" alt=""/>
+      <caption webpage="walkspirit3" alt=""/>
+      <caption webpage="bible" alt=""/>
+      <caption webpage="ebooks" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4024770525" seo="true" mt="1519253714286" redirect="true"/>
+  <file name="john.html" crc="4224373031" seo="true" mt="1519253714286" redirect="true"/>
+  <file name="prayer.html" crc="446854465" seo="true" mt="1519253714286" redirect="true"/>
+  <file name="jesus.html" crc="499621459" seo="true" mt="1519253714286" redirect="true"/>
+  <file name="starterkit.html" crc="146755549" seo="true" mt="1519253714286" redirect="true"/>
+  <file name="harvestime.html" crc="3992813073" seo="true" mt="1519253714286" redirect="true"/>
+  <file name="ebooks.html" crc="97947342" seo="true" mt="1519253714286" redirect="true"/>
+  <file name="bible.html" crc="153638999" seo="true" mt="1519253714286" redirect="true"/>
+  <file name="biblicaleq.html" crc="205011826" seo="true" mt="1519253714286" redirect="true"/>
+  <file name="romans_1-8.html" crc="109279444" seo="true" mt="1519253714286" redirect="true"/>
+  <file name="romans_9-16.html" crc="4286414882" seo="true" mt="1519253714286" redirect="true"/>
+  <file name="walkspirit1.html" crc="196354912" seo="true" mt="1519253714286" redirect="true"/>
+  <file name="walkspirit2.html" crc="3805505381" seo="true" mt="1519253714286" redirect="true"/>
+  <file name="walkspirit3.html" crc="4228537973" seo="true" mt="1519253714286" redirect="true"/>
+  <file name="walkspirit4.html" crc="175848338" seo="true" mt="1519253714286" redirect="true"/>
+  <file name="the-spiritual-continuum.html" crc="4046992589" seo="true" mt="1519253780507" redirect="true"/>
+</manifest>
