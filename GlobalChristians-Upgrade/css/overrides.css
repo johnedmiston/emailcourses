@@ -322,3 +322,31 @@ body {
     height: auto !important;
   }
 }
+/* ===== Mobile Menu Improvements ===== */
+@media (max-width: 768px) {
+
+  /* Reduce logo size */
+  #u94_img {
+    max-width: 180px;
+    height: auto;
+  }
+
+  /* Menu buttons */
+  .MenuItem {
+    padding: 10px 14px !important;
+    margin: 8px 0 !important;
+    border-radius: 10px !important;
+    font-size: 16px !important;
+  }
+
+  /* Remove input-like feel */
+  .MenuItemLabel {
+    font-weight: 600;
+  }
+
+  /* Active menu */
+  .MenuItem.MuseMenuActive {
+    background-color: #0b63c6 !important;
+    color: #fff !important;
+  }
+}
